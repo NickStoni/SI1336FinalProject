@@ -8,4 +8,4 @@ left, and change to the right most available lane after the overtake.
 
 We studied how different stochastic models of maximum velocities impacted the traffic flow.
 Multiple analyses were employed: we investigated fundamental diagrams, and heat maps showing how many cars pass
-through each unit unit of road.
+through each unit of road.

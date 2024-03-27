@@ -1,4 +1,4 @@
-## [SI1336 Simulation and Modeling](https://www.kth.se/student/kurser/kurs/SI1336?l=en).
+## [SI1336 Simulation and Modeling](https://www.kth.se/student/kurser/kurs/SI1336?l=en)
 ## Project title 
 Traffic flow in a single and multiple lane highway with overtaking
 ## Summary
